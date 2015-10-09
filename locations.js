@@ -1,5 +1,6 @@
 a(
   [
+    "At NYNY; now accepting visitors!",
     "in stealth mode in Vegas",
     "test message from phine",
     "testMessage",
