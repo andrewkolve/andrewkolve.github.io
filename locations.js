@@ -1,5 +1,6 @@
 a(
   [
+    "Super mega cocktail hours in the Ritz PENTHOUSE: rm 3355",
     "In the Ritz PENTHOUSE: rm 3355",
     "Changing rooms",
     "Walking aimlessly",
