@@ -1,5 +1,6 @@
 a(
   [
+    "Assembling in the Ritz PENTHOUSE: rm 3355 to depart for fremont at 10pm",
     "Super mega cocktail hours in the Ritz PENTHOUSE: rm 3355",
     "In the Ritz PENTHOUSE: rm 3355",
     "Changing rooms",
