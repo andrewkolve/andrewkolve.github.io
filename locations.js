@@ -1,5 +1,6 @@
 a(
   [
+    "In the penthouse ready to happy hour!",
     "Going to the essentials market",
     "Hanging in the penthouse. You can too!",
     "Walking",
