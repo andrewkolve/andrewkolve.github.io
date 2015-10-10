@@ -1,5 +1,6 @@
 a(
   [
+    "Going to the essentials market",
     "Hanging in the penthouse. You can too!",
     "Walking",
     "At the NYNY arcade. Skee ball anyone?",
