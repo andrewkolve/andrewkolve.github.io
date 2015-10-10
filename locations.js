@@ -1,5 +1,6 @@
 a(
   [
+    "Walking",
     "At the NYNY arcade. Skee ball anyone?",
     "Skipping pool - getting started on the day",
     "The Andrew is still sleeping things off. Come to the penthouse if interested in hanging out. Feel free to head over to the pool; we shall be fashionably late.",
