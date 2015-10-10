@@ -1,5 +1,6 @@
 a(
   [
+    "Hanging in the penthouse. You can too!",
     "Walking",
     "At the NYNY arcade. Skee ball anyone?",
     "Skipping pool - getting started on the day",
