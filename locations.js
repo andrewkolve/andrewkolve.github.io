@@ -1,5 +1,7 @@
 a(
   [
+    "Heading to harrahs - carnival bar, at the",
+    "ZUMANITY",
     "In the penthouse ready to happy hour!",
     "Going to the essentials market",
     "Hanging in the penthouse. You can too!",
