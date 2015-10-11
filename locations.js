@@ -1,5 +1,6 @@
 a(
   [
+    "In the penthouse - come on up!",
     "Waking up?",
     "Heading to harrahs - carnival bar, at the",
     "ZUMANITY",
