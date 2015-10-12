@@ -1,5 +1,7 @@
 a(
   [
+    "Watching the walking dead. In an empty penthouse. Had a great weekend. Thanks everyone!",
+    "Just went on the roller coaster",
     "In the penthouse - come on up!",
     "Waking up?",
     "Heading to harrahs - carnival bar, at the",
