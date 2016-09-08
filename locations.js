@@ -1,5 +1,7 @@
 a(
   [
+    ".",
+    "the rest are old... from 2015",
     "Watching the walking dead. In an empty penthouse. Had a great weekend. Thanks everyone!",
     "Just went on the roller coaster",
     "In the penthouse - come on up!",
